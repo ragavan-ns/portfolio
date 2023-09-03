@@ -6,8 +6,8 @@ export const data=[
         id:1,
         name:"Virtual Dice Roller Application",
         image:RealEst,
-        github:"",
-        live:"",
+        github:"https://www.github.com/ragavan-ns/Virtual-Dice-Roller-Application",
+        live:"https://ragavan-ns.github.io/Virtual-Dice-Roller-Application/",
     },
     {
         id:2,
