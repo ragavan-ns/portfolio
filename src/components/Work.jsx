@@ -44,7 +44,7 @@ const Work = () => {
              Code
           </button>
         </a>
-        {/* eslint-disable-next-line {item.live} */}
+        {/* eslint-disable-next-line */}
            <a href={item.live} target="_blank">          
                <button className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
