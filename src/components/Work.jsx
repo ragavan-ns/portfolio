@@ -35,8 +35,9 @@ const Work = () => {
         {item.name}
       </span>
       <div className="pt-8 text-center ">
+          let url={item.live};
         {/* eslint-disable-next-line */}
-        <a href={(item.live)} >
+        <a href={url} >
                   
         <button
             className="text-center rounded-lg px-4 py-3 m-2
