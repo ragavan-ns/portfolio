@@ -1,5 +1,6 @@
 import React from 'react';
 import { data } from "../data/data.js";
+import AnchorLink from "react-anchor-link-smooth-scroll";
 
 
 const Work = () => {
@@ -36,25 +37,22 @@ const Work = () => {
       </span>
       <div className="pt-8 text-center ">
         {/* eslint-disable-next-line */}
-        
+        <AnchorLink href={item.github} target="_blank">
           <button
             className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
           >
-              <a href=item.github target="_blank">
-            Code
-             </a>
+             Code
           </button>
-        
+        </AnchorLink>
         {/* eslint-disable-next-line {item.live} */}
-        <a href= "https://ragavan-ns.github.io/Virtual-Dice-Roller-Application/" target="_blank">
-          <button
-            className="text-center rounded-lg px-4 py-3 m-2
+           <AnchorLink href={item.live} target="_blank">          
+               <button className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
           >
             Live
           </button>
-        </a>
+        </AnchorLink>
       </div>
     </div>
   </div>
