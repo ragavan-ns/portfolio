@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d04947b5.css",
+    "main.js": "/static/js/main.a71cac32.js",
+    "static/media/phonePe.png": "/static/media/phonePe.8655a4d40275f57ba3a7.png",
+    "static/media/java.png": "/static/media/java.d31b6825aaa72bdfa6d4.png",
+    "static/media/dice.png": "/static/media/dice.16da3925c41ccbaae5fa.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.d04947b5.css.map": "/static/css/main.d04947b5.css.map",
+    "main.a71cac32.js.map": "/static/js/main.a71cac32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04947b5.css",
+    "static/js/main.a71cac32.js"
+  ]
+}
